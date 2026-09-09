@@ -1,7 +1,7 @@
 --!nocheck
 --!nolint
 -- ══════════════════════════════════════════════════════════════════════
---   PRISM — Anime Dungeons (Ultimate Sequential Edition)
+--   PRISM — Anime Dungeons 
 -- ══════════════════════════════════════════════════════════════════════
 
 local Players            = game:GetService("Players")
